@@ -1,0 +1,16 @@
+{
+    "identifier": "de.mountbatt.bootstrap",
+    "name": "Bootstrap",
+    "organization": "Tobias Battenberg",
+    "description": "Adds Bootstrap 5 auto-completion.",
+    "version": "1.0",
+    "categories": ["completions"],
+    "bugs": "https://github.com/mountbatt",
+    "main": "main.js",
+    "activationEvents": [
+        "onLanguage:html"
+    ],
+    "entitlements": {
+        
+    }
+}
