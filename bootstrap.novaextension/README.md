@@ -6,4 +6,4 @@ Bootstrap requires no additional resources or configurations
 
 ## Thanks
 
-Thanks to https://github.com/zkarj735 for your inspiration!
+Thanks to zkarj735 for your inspiration!
