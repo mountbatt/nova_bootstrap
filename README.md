@@ -1,5 +1,7 @@
 # nova_bootstrap
  This Nova Extension adds Bootstrap 5 auto-completion
+ 
+ You can find it for Nova here: https://extensions.panic.com/extensions/de.mountbatt/de.mountbatt.bootstrap/
 
 ### Just a note for future updates how to get the current classnames from Bootstrap CSS:
  
