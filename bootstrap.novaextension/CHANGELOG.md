@@ -1,3 +1,7 @@
+## Version 1.2
+
+Activate it also on PHP
+
 ## Version 1.1
 
 Readme update

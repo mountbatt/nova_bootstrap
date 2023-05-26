@@ -44,6 +44,6 @@ class CompletionProvider {
     }
 }
 
-
-nova.assistants.registerCompletionAssistant("html", new CompletionProvider());
+let editor = ["html", "php"];
+nova.assistants.registerCompletionAssistant(editor, new CompletionProvider());
 
